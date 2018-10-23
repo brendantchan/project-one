@@ -1,9 +1,23 @@
 h1 {
     font-family: 'Volkhov', serif;
-    color: green;
+    color: white;
+    background-color: green;
 }
 
 h2 {
     font-family: 'Roboto', sans-serif;
-    color: green;
+    color: white;
+    background-color: green;
+}
+
+body {
+    text-align: center;
+    width: 720px;
+    margin: auto;
+    background-color: seagreen;
+    color: black;
+}
+
+.image {
+    border: solid 5px white;
 }
